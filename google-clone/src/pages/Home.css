@@ -31,6 +31,7 @@
 
 .home__headerRight > .MuiSvgIcon-root{
     margin-right: 20px;
+    color: gray;
 }
 
 .home__body{
