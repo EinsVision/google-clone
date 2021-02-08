@@ -29,6 +29,10 @@ function Home() {
             </div>
         </div>
     )
-}
+} 
 
 export default Home
+
+
+// https://github.com/EinsVision/google-clone
+// einsvision.github.io/google-clone
